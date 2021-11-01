@@ -2,7 +2,7 @@
 #  Online Bank Account Application 
 ---
 > using Object-oriented programming (OOP) in Python 
-![open in colab](https://image.freepik.com/free-vector/people-with-smartphones-using-mobile-banking-app_74855-5917.jpg)
+
 [![open in colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/wallik2/Tiny_project/blob/main/Bank_Account_OOP_Project_(Level_1).ipynb#scrollTo=ZdUfBFQXa2k-)
 
 It is undeniable to do everything about financial with just your one finger with your online banking, So, our inspiration istry to create the framework of the online banking account.
@@ -105,6 +105,9 @@ Make sure you have sufficient money in your bank account before transfer, otherw
 ```sh
 > Insufficient funds ! 
 ```
+
+---
+
 
 Our current features are only these simple framework, and we will continue to improve more like 
 
