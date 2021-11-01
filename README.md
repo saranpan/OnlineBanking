@@ -4,7 +4,7 @@
 > using Object-oriented programming (OOP) in Python 
 
 ![bank account pic](https://image.freepik.com/free-vector/people-with-smartphones-using-mobile-banking-app_74855-5917.jpg)
-/
+\
 [![open in colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/wallik2/Tiny_project/blob/main/Bank_Account_OOP_Project_(Level_1).ipynb#scrollTo=ZdUfBFQXa2k-)
 
 It is undeniable to do everything about financial with just your one finger with your online banking, So, our inspiration istry to create the framework of the online banking account.
