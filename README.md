@@ -115,3 +115,4 @@ Our current features are only these simple framework, and we will continue to im
 
 1. Update balance for the fixed deposit account as time passes 
 2. GUI for login to the account (which register by user & pass)
+3. Collect BankAccount in form of Database 
